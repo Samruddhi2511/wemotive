@@ -1,0 +1,17 @@
+[33mcommit 80d970b5026c80d50a2f0575a6708789a1006f4e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Samruddhi Wakchaure <samruddhi@wemotiveforge.com>
+Date:   Wed Jan 21 17:08:57 2026 +0530
+
+    added addition and subtraction functionality
+
+[33mcommit 9f394790e92844ee7f231af04806548617e44b4f[m
+Author: Samruddhi Wakchaure <samruddhi@wemotiveforge.com>
+Date:   Wed Jan 21 17:01:32 2026 +0530
+
+    2nd commit for project
+
+[33mcommit aed98ca117a78218efb412be29c5e4bf8af9c3c0[m
+Author: Samruddhi Wakchaure <samruddhi@wemotiveforge.com>
+Date:   Wed Jan 21 14:30:59 2026 +0530
+
+    Add initial app.py file
